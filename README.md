@@ -10,7 +10,8 @@ MCU 타이머와 인터럽트를 활용하는 모터 제어 프로젝트입니�
 타이머 시작 시 발생한 의도치 않은 인터럽트의 원인을 분석하고 해결한 과정을 기록했습니다.
 
 ### [(QT, C) 주차타워 관제 시스템](https://github.com/Qt-mini/Qt-miniProject)
-Qt를 활용한 주차타워 관제 프로젝트입니다.
+Qt를 활용한 주차타워 관제 프로젝트입니다.  
+STM32와 Qt를 UART로 연결해 주차 공간 자동 배정, 차단기 제어, 주차 요금 정산 기능을 구현했습니다.
 
 ### [(FPGA, Verilog) 전자레인지 제어기 설계](https://github.com/Sungpie/project_microwave)
 Verilog와 Basys 3 FPGA 보드를 이용해 전자레인지 동작을 구현한 프로젝트입니다.  
